@@ -1,1 +1,3 @@
 # kivy_for_game_main
+这个项目要收集和创造所有的kivy游戏
+个人意愿使用kivy写最流行吃鸡游戏
